@@ -1,4 +1,5 @@
-TSCDIA - Proyecto Integrador - Analista de Datos 			Cohorte 2023	
+TSCDIA - Proyecto Integrador - Analista de Datos 			
+Cohorte 2023	
 Los_Data_Lovers_2024				
 				
 D.N.I	Nombre y Apellido	GitHub Grupal	Usuario de GitHub	Correo electrónico
