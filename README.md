@@ -8,6 +8,6 @@ D.N.I	         Nombre y Apellido		             Usuario de GitHub	               
 23.089.761	Godoy, Silvana Andrea 		            SilvanaAGodoy	                                silvanaagodoy@gmail.com
 45.692.476	Guzmán, Nahir Dayana		            NahirGuzman	                                        nahirdayanaguzman@gmail.com
 25.920.103	Navarro, Paola Giselle		            paolanavarro123	                                rrhh.magnus.gastronomia@gmail.com
-25.363.245	Oro, Yamil Elías			    EliasOro2030                                        techtecno@gmail.com
+25.363.245	Oro, Yamil Elías			    EliasOro2030                                        greendaylife@hotmail.com
 32.406.533	Rivera Luna, Gonzalo Ezequiel		    Gonezq	                                        gonzaloeriveral@gmail.com
 30.337.538	Rojas, Marisa		                    Marisa35	                                        rojasmarisa8335@gmail.com
