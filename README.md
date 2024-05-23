@@ -2,7 +2,7 @@ TSCDIA - Proyecto Integrador - Analista de Datos
 Cohorte 2023	
 LosDataLovers				
 				
-D.N.I	         Nombre y Apellido		             Usuario de GitHub	                                Correo electrónico
+**D.N.I	         Nombre y Apellido		             Usuario de GitHub	                                Correo electrónico**
 37.521.977	Almada, Sergio Daniel 		            dannyalmada94	                                dannyalmada.94@gmail.com
 42.475.117	Beltramone, Mateo		            Mateo88XD	                                        mateobeltramone2000@gmail.com
 23.089.761	Godoy, Silvana Andrea 		            SilvanaAGodoy	                                silvanaagodoy@gmail.com
